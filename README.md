@@ -12,18 +12,22 @@ The inference is very slow and runs on the CPU. It can be made to run in the GPU
 ### Screenshots
 
 ##### Source Image
+![Original](https://github.com/user-attachments/assets/aa91efda-c118-45fc-945e-3ed509e1c84b)
 
 
 
 ##### Generated Mask
+![OriginalWithMask](https://github.com/user-attachments/assets/636fc7c0-0541-4323-b2ef-c9d9eb3a1e39)
 
 
 
 ##### Mask applied to source
+![MaskedResult](https://github.com/user-attachments/assets/046eaeff-57a4-4a87-96f3-077299ae1e7c)
 
 
 
 ##### Final UI
+![FinalResult](https://github.com/user-attachments/assets/a6d58a9f-6162-4858-9e60-98f83f97aff0)
 
 
 
